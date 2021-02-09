@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginANdRegFirebase</string>
+    <!--<string name="default_web_client_id">default web</string>-->
+    <color name="colorPrimary">#ff9e28</color>
+    <color name="colorPrimaryDark">#ed8700</color>
+    <color name="colorAccent">#ffdc40</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+</resources>
