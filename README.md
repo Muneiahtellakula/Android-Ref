@@ -8,3 +8,4 @@ This for android Projects refarence
 * Custom TOAST https://github.com/TheHasnatBD/SweetToast.git
 * https://camposha.info/android-firebase-full-crud-course-insert-select-update-delete-search/ 
 * * https://github.com/TheHasnatBD/REST-API--Android
+* retrofit curd https://github.com/NoorMohammedAnik/RetrofitCRUD
