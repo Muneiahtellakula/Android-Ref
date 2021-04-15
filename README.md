@@ -5,3 +5,4 @@ This for android Projects refarence
 
 * SQLITE Refarence https://github.com/deepakjaiswal2018/Student-Management-System-CRUD-App
 * uMe Chatting App https://github.com/TheHasnatBD/uMe
+* Custom TOAST https://github.com/TheHasnatBD/SweetToast.git
