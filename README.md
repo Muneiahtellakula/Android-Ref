@@ -11,3 +11,4 @@ This for android Projects refarence
 * retrofit curd https://github.com/NoorMohammedAnik/RetrofitCRUD
 * firebase push notificaions https://github.com/prabhat1707/Firebase-Push-Notification-Api-
 * Splash screen 
+* https://gist.github.com/evandrix/7058235 --contacts load
