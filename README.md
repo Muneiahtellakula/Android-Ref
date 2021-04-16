@@ -10,3 +10,4 @@ This for android Projects refarence
 * * https://github.com/TheHasnatBD/REST-API--Android
 * retrofit curd https://github.com/NoorMohammedAnik/RetrofitCRUD
 * firebase push notificaions https://github.com/prabhat1707/Firebase-Push-Notification-Api-
+* Splash screen 
