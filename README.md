@@ -12,3 +12,4 @@ This for android Projects refarence
 * firebase push notificaions https://github.com/prabhat1707/Firebase-Push-Notification-Api-
 * Splash screen 
 * https://gist.github.com/evandrix/7058235 --contacts load
+* * https://www.studytonight.com/android/spinner-example-in-android spinner selection
