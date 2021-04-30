@@ -1,4 +1,4 @@
-# D-Learn
+# M-Learn
 A simple distance learning android app
 
 
