@@ -14,4 +14,4 @@ This for android Projects refarence
 * https://gist.github.com/evandrix/7058235 --contacts load
 * https://www.studytonight.com/android/spinner-example-in-android spinner selection
 * Java Course - https://github.com/ChristianCSE/Interview-Study-Guide
-* * stu ttandance https://github.com/sajalkhan/diu-student-attendance-system
+* * stu ttandance https://github.com/sajalkhan/diu-student-attendance-system https://sites.google.com/diu.edu.bd/diusas/demonstration
