@@ -18,3 +18,4 @@ This for android Projects refarence
 * https://github.com/RocktimRajkumar/JOB-portal.git
 * student career predition system https://github.com/KLGLUG/student-career-area-prediction-using-machine-learning
 * file transfer https://github.com/KLGLUG/skunkworks-crow 
+* https://github.com/shem8/MaterialLogin
