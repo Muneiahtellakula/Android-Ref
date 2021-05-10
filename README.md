@@ -19,3 +19,4 @@ This for android Projects refarence
 * student career predition system https://github.com/KLGLUG/student-career-area-prediction-using-machine-learning
 * file transfer https://github.com/KLGLUG/skunkworks-crow 
 * https://github.com/shem8/MaterialLogin
+* https://github.com/akrajilwar/Android-Login-And-Registration.git with php
