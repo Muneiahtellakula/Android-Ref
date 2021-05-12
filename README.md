@@ -20,3 +20,4 @@ This for android Projects refarence
 * file transfer https://github.com/KLGLUG/skunkworks-crow 
 * https://github.com/shem8/MaterialLogin
 * https://github.com/akrajilwar/Android-Login-And-Registration.git with php
+* https://github.com/sksoumik/Nearby-Search.git maps
