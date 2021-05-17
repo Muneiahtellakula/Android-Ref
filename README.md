@@ -3,6 +3,9 @@ This for android Projects refarence
 * Sample ANdroid Refarence TUTooo
 # [Firebase Google Sign document Refarence] (https://androidwave.com/google-sign-in-using-firebase-android/)
 * Firebase File Uploading Refarence https://github.com/osamamohsen/Upload-Image-To-Firebase or https://github.com/Oclemy/FirebaseRecyclerImagesUploadDownload
+* For Firebase signle record https://theengineerscafe.com/save-and-retrieve-data-firebase-android/
+* For Firebase Files https://theengineerscafe.com/firebase-storage-android-tutorial/
+* 
 * SQLITE Refarence https://github.com/deepakjaiswal2018/Student-Management-System-CRUD-App
 * uMe Chatting App https://github.com/TheHasnatBD/uMe
 * Custom TOAST https://github.com/TheHasnatBD/SweetToast.git
