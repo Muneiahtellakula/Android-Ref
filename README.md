@@ -31,3 +31,4 @@ This for android Projects refarence
 * github splash https://github.com/MtsRovari/SplashScreen.git
 * https://github.com/manmeetkaurbaxi/Newsfeed
 * https://github.com/Harshitkalal/Shram
+* https://github.com/IvBaranov/MaterialFavoriteButton
