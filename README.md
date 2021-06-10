@@ -33,5 +33,6 @@ This for android Projects refarence
 * https://github.com/manmeetkaurbaxi/Newsfeed
 * https://github.com/Harshitkalal/Shram
 * https://github.com/IvBaranov/MaterialFavoriteButton
+* https://www.journaldev.com/797/what-is-java-string-pool
 * https://github.com/andremion/Music-Player.git
 * Some of the open source Projects Collection https://techbeacon.com/app-dev-testing/how-master-android-what-developers-can-learn-21-apps
