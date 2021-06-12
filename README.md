@@ -33,6 +33,7 @@ This for android Projects refarence
 * https://github.com/manmeetkaurbaxi/Newsfeed
 * https://github.com/Harshitkalal/Shram
 * https://github.com/IvBaranov/MaterialFavoriteButton
+* https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
 * https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java
 * https://www.journaldev.com/797/what-is-java-string-pool
 * https://github.com/andremion/Music-Player.git
