@@ -38,3 +38,4 @@ This for android Projects refarence
 * https://www.journaldev.com/797/what-is-java-string-pool
 * https://github.com/andremion/Music-Player.git
 * Some of the open source Projects Collection https://techbeacon.com/app-dev-testing/how-master-android-what-developers-can-learn-21-apps
+* https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
