@@ -42,3 +42,4 @@ This for android Projects refarence
 * Some of the open source Projects Collection https://techbeacon.com/app-dev-testing/how-master-android-what-developers-can-learn-21-apps
 * https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
 * https://github.com/mitchtabian/Bound-Services-with-MVVM.git
+* https://mindorks.com/open-source-projects
