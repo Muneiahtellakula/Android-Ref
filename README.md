@@ -9,6 +9,7 @@ This for android Projects refarence
 * Firebase File Uploading Refarence https://github.com/osamamohsen/Upload-Image-To-Firebase or https://github.com/Oclemy/FirebaseRecyclerImagesUploadDownload
 * For Firebase signle record https://theengineerscafe.com/save-and-retrieve-data-firebase-android/
 * For Firebase Files https://theengineerscafe.com/firebase-storage-android-tutorial/
+* https://github.com/googleads/googleads-mobile-android-examples
 * [youtube player intigration](https://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/)
 * https://github.com/VinayakBagaria/Indian-States-and-Cities-Android 
 * SQLITE Refarence https://github.com/deepakjaiswal2018/Student-Management-System-CRUD-App
