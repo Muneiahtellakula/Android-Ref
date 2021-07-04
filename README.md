@@ -39,8 +39,8 @@ This for android Projects refarence
 * https://github.com/Harshitkalal/Shram
 * https://github.com/IvBaranov/MaterialFavoriteButton
 * https://github.com/hrj-star/Read-It-Loud.git -->pdf read it 
-* https://codingwithmitch.com/blog/memory-leaks-on-android/
-
+* https://codingwithmitch.com/blog/memory-leaks-on-android/https://github.com/iabhishek5007/Mobile-Based-Attendance-System-App 
+* 
 * https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
 * https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java
 * https://www.journaldev.com/797/what-is-java-string-pool
