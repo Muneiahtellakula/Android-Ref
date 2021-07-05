@@ -1,6 +1,7 @@
 # Android-Refarence Notes and URLs
 This for android Projects refarence 
 * https://keepv.id/11/
+* design patterns therory **https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android**
 * For Interview books info ⚜️Drive Download link: https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
 * For cources link kotlin,..etc https://github.com/iamshaunjp
 * Sample ANdroid Refarence TUTooo
