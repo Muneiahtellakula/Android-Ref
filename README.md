@@ -52,3 +52,4 @@ This for android Projects refarence
 * https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
 * https://github.com/mitchtabian/Bound-Services-with-MVVM.git
 * https://mindorks.com/open-source-projects
+* attendance https://github.com/rishi772001/Attendance-management.git firebase
