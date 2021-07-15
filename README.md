@@ -55,3 +55,4 @@ This for android Projects refarence
 * https://github.com/mitchtabian/Bound-Services-with-MVVM.git
 * https://mindorks.com/open-source-projects
 * attendance https://github.com/rishi772001/Attendance-management.git firebase
+* https://github.com/mitchtabian/Dagger-Examples
