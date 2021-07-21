@@ -1,4 +1,4 @@
-# Android-Refarence Notes and URLs
+# Android Java And Kotlin -Refarence Notes and URLs
 This for android Projects refarence 
 * AAD https://www.youtube.com/watch?v=_01l0l1kU1w
 * https://keepv.id/11/
