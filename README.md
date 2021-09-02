@@ -1,5 +1,6 @@
 # Android Java And Kotlin -Refarence Notes and URLs
 This for android Projects refarence 
+## [ANdroid Terms Vocablory](https://developers.google.com/android/for-all/vocab-words/)
 * AAD https://www.youtube.com/watch?v=_01l0l1kU1w
 * For Onine Video Downloader Link https://keepv.id/11/
 * design patterns therory **https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android**
