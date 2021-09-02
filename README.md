@@ -60,3 +60,5 @@ This for android Projects refarence
 * https://mindorks.com/open-source-projects
 * attendance https://github.com/rishi772001/Attendance-management.git firebase
 * https://github.com/mitchtabian/Dagger-Examples
+* ====location==========
+* https://docs.microsoft.com/en-us/xamarin/android/platform/maps-and-location/location#:~:text=Android%20uses%20three%20location%20providers%3A%201%20GPS%20Provider,to%20generate%20location%20data%20in%20an%20application.%20
